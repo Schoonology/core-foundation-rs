@@ -22,6 +22,7 @@ pub mod error;
 pub mod filedescriptor;
 pub mod messageport;
 pub mod number;
+pub mod preferences;
 pub mod propertylist;
 pub mod runloop;
 pub mod set;

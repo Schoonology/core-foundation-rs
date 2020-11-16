@@ -225,6 +225,7 @@ pub mod dictionary;
 pub mod error;
 pub mod filedescriptor;
 pub mod number;
+pub mod preferences;
 pub mod set;
 pub mod string;
 pub mod url;
